@@ -1,0 +1,18 @@
+input[type=text] {
+    width: 130px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+	box-sizing: border-box;
+    font-size: 12px;
+    background-color: white;
+    background-image: url('../img/meinlupa16.png');
+	background-position: 5px;
+    background-repeat: no-repeat;
+    padding: 6px 2px 5px 30px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 40%;
+}

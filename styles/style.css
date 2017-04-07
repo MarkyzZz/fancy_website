@@ -1,80 +1,57 @@
-body{
-	font-size:16px;
-	margin: 100px;
-	display: block;
-	min-width: 1075px;
-	
+body {
+    font-size: 16px;
+    display: block;
+    max-width: 1280px;
+    margin: 10px 20px;    
 }
+
 input[type=text] {
     width: 130px;
     border: 2px solid #ccc;
     border-radius: 10px;
-	box-sizing: border-box;
+    box-sizing: border-box;
     font-size: 12px;
     background-color: white;
     background-image: url('../img/meinlupa16.png');
-	background-position: 5px;
+    background-position: 5px;
     background-repeat: no-repeat;
     padding: 6px 2px 5px 30px;
     -webkit-transition: width 0.4s ease-in-out;
-    transition: width 0.4s ease-in-out;	
+    transition: width 0.4s ease-in-out;
 }
 
 input[type=text]:focus {
-    width: 150%;
-}
-form{
-	position:absolute;
+    width: 40%;
 }
 
-.logo{
-	position:absolute;
-	top:-30%;
-	right: 40%;	
+.logo {
+    margin-left: 50%;
+    margin-top: -60px;
+    float: left;
 }
 
-div.interface ul li{
-	list-style-type: none;
-	display: inline;
-	float: left;
-	padding-right: 20px;
+div.interface ul li {
+    clear:left;
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 10px;
+    padding-top: 5px;
 }
-div.menu ul li{
-	list-style-type: none;
-	display: inline;
-	float: left;
-	padding-right: 50px;
-	margin: 0 20px;
+div.interface{
+    padding-left: 84%;
+    margin-top: -100px;
+}
+.nav{
+    height: 50px;
+    vertical-align: middle;
+    background-color:dimgrey;
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
 }
 
 div.menu{
-	
-	margin:0 auto;
+    margin-top: 50px;
 }
 
-div.interface{
-	position: absolute;
-	display: inline;
-	top: 0%;
-	right: 0%;
-}
-
-div.main{
-	
-	max-width: 1060px;
-    width: 100%;
-	background-color: LightGray;
-    margin: 0 auto;
-    position: fixed;
-    padding: 0 15px;
-	top:0;
-    box-sizing: content-box;
-    display: webkit-flex;
-    /* display: flex; */
-    -webkit-flex-flow: row nowrap;
-    flex-flow: row nowrap;
-    -webkit-justify-content: space-between;
-    justify-content: space-between;
-    -webkit-align-items: center;
-    align-items: center;
-}

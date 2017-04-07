@@ -53,5 +53,17 @@ div.interface{
 
 div.menu{
     margin-top: 50px;
+	text-align: center;
 }
+div.menu ul li {
+    display: inline;
+    text-decoration: none;
+	text-align: center;
+	color: #303030;
+}
+
+div.menu ul li a:hover{
+	color: #fff;
+}
+
 

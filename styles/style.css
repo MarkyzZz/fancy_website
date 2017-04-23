@@ -4,6 +4,8 @@ body {
     max-width: 100%;
     margin: 10px 40px;
     z-index: 1;
+    background-color: darkgrey;
+    box-sizing: border-box;
 }
 
 input[type=text] {
@@ -111,4 +113,37 @@ div p span {
 }
 a{
     text-decoration: none;
+}
+
+.image2{
+    display: inline-block;
+    float: right;
+    margin-top: -20em;
+    margin-right: 15.1em;
+    
+}
+.friend4eva{
+    width: 35%;
+    font-size: 20px;
+    text-align: right;
+    position : relative;
+    top: 270px;
+    left: 200px;
+   
+    font-family: "Monotype Corsiva";
+}
+#whiteback{
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    position : relative;
+    top: -11em;
+    left: 5.5em;  
+    z-index: -1;
+}
+.friends{
+    font-size: 30px;
+    font-family: "Arial Black";
+    font-weight: bold;
+    color: deeppink;
 }

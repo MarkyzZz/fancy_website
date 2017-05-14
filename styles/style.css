@@ -408,3 +408,9 @@ div.footer-links{
 #center{
     text-align: center;
 }
+
+.table-centered{
+    width:900px;
+    height: 100px;
+    
+}

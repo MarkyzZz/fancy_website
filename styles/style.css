@@ -154,7 +154,7 @@ a:visited{
     position:relative;
     top: 45px;
     text-align: left;
-    color: deeppink;
+    color: #ff97cb;
     z-index: 2;
 }
 
@@ -169,7 +169,7 @@ a:visited{
 }
 .greenrect{
     position:relative;
-    border: 7px solid #81f9b3;
+    border: 7px solid #5efad7;
     z-index: 1;
     width: 44%;
     height: 400px;
@@ -225,14 +225,14 @@ a:visited{
     font-family: "Monotype Corsiva";
     background-color: white;
     font-size: 30px;
-    color: aqua; 
+    color: #5efad7; 
     font-family: "Arial Black";
     z-index: 2;
 }
 
 .pinkrect{
     position:relative;
-    border: 7px solid pink;
+    border: 7px solid #ff97cb;
     z-index: 1;
     width: 550px;
     height: 320px;
@@ -296,12 +296,12 @@ a:visited{
     text-align:center;
     font-style:italic;
     font-weight: bold;
-    color:#85eae5;
+    color:#ff97cb;
 }
 
 .greenrect2{
     position: relative;
-    border: 7px solid #619ef9;
+    border: 7px solid #5efad7; 
     width: 450px;
     height: 250px;
     bottom: 15em;
@@ -314,7 +314,7 @@ a:visited{
 	height:50px;
 	background-color: #5efad7;
     border: none;
-    color: white;
+    color: #ededed;
 	font-weight: bold;
     padding: 15px 20px;
     text-align: center;
@@ -328,7 +328,7 @@ a:visited{
 	margin:20px;
 }
 .button1:hover{
-	background-color: white; 
+	background-color: #ededed; 
 	font-weight: bold;
     border: 3px solid #5efad7;
 	padding: 13px 20px;
@@ -353,7 +353,7 @@ a:visited{
 	margin:20px;
 }
 .button2:hover{    
-    color: white; 
+    color: #ededed; 
 	font-weight: bold;
 	background-color: #5efad7; 
     border: none;

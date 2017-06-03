@@ -8,7 +8,7 @@ body {
     background-color:#f1f1f1;
 	font-family:'Arial';
     box-sizing: border-box;
-	font-family:'EB Garamond';
+
 }
 
 .search input[type=text] {
@@ -107,11 +107,13 @@ div.imagetext{
     
 }
 div p span {
+    font-family: 'Arial';
     color: cyan;
 }
 
 .rotrect{
-    border: 5px solid pink;
+    border: 5px solid;
+    border-color:#ff97cb;
     position: relative;
     width:300px;
     height:300px;
@@ -542,44 +544,119 @@ div.box2 {
 div.box2 h4{
     text-align:center;
 }
-
+div.middle{
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+div.midtext{
+  background-color: #ff97cb;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+div.wfoto1:hover .middle{
+    opacity: 1;
+}
+div.wfoto1:hover .w1{
+    opacity: 0.3;
+}
 div.wfoto1{
+    position:relative;
     float:left;
     margin-left: 400px;
-    margin-top: -273px;
+    margin-top: -373px;
     top: 100px;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
 }
 div.wfoto2{
+    position:relative;
     float:left;
     margin-left: 700px;
     margin-top: -442px;
     top: 100px;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
+}
+div.wfoto2:hover .middle{
+    opacity: 1;
+}
+div.wfoto2:hover .w2{
+    opacity: 0.3;
 }
 div.wfoto3{
     float:left;
     margin-left: 400px;
     margin-top: 30px;
     top: 100px;
+    position:relative;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
+}
+div.wfoto3:hover .middle{
+    opacity: 1;
+}
+div.wfoto3:hover .w3{
+    opacity: 0.3;
 }
 div.wfoto4{
     float:left;
     margin-left: 10px;
     margin-top: 30px;
-  
+    top:100px;
+    position:relative;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
+  }
+div.wfoto4:hover .middle{
+    opacity: 1;
+}
+div.wfoto4:hover .w4{
+    opacity: 0.3;
 }
 div.wfoto5{
     float:left;
     margin-left: 400px;
     margin-top: 30px;
     top: 100px;
+    position:relative;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
+}
+div.wfoto5:hover .middle{
+    opacity: 1;
+}
+div.wfoto5:hover .w5{
+    opacity: 0.3;
 }
 div.wfoto6{
     float:left;
     margin-left: 10px;
     margin-top: 30px;
     top: 100px;
+    position:relative;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
+}
+div.wfoto6:hover .middle{
+    opacity: 1;
+}
+div.wfoto6:hover .w6{
+    opacity: 0.3;
 }
 div.prevnext a {
+    position: static;
     border: 1px solid #303030;
     margin-top: 1100px;
     margin-left:100px ;
@@ -596,36 +673,105 @@ div.prevnext a:hover {
 div.mfoto1{
     float:left;
     margin-left: 400px;
-    margin-top: -273px;
+    margin-top: -373px;
     top: 100px;
+    position:relative;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
+}
+div.mfoto1:hover .middle{
+    opacity: 1;
+}
+div.mfoto1:hover .m1{
+    opacity: 0.3;
 }
 div.mfoto2{
     float:left;
     margin-left: 700px;
     margin-top: -442px;
     top: 100px;
+        position:relative;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
+}
+div.mfoto2:hover .middle{
+    opacity: 1;
+}
+div.mfoto2:hover .m2{
+    opacity: 0.3;
 }
 div.mfoto3{
     float:left;
     margin-left: 400px;
     margin-top: 30px;
     top: 100px;
+        position:relative;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
+}
+div.mfoto3:hover .middle{
+    opacity: 1;
+}
+div.mfoto3:hover .m3{
+    opacity: 0.3;
 }
 div.mfoto4{
     float:left;
     margin-left: 10px;
     margin-top: 30px;
+    top:100px;
+        position:relative;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
   
+}
+div.mfoto4:hover .middle{
+    opacity: 1;
+}
+div.mfoto4:hover .m4{
+    opacity: 0.3;
 }
 div.mfoto5{
     float:left;
     margin-left: 400px;
     margin-top: 30px;
     top: 100px;
+        position:relative;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
+}
+div.mfoto5:hover .middle{
+    opacity: 1;
+}
+div.mfoto5:hover .m5{
+    opacity: 0.3;
 }
 div.mfoto6{
     float:left;
     margin-left: 10px;
     margin-top: 30px;
     top: 100px;
+        position:relative;
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility:hidden;
 }
+div.mfoto6:hover .middle{
+    opacity: 1;
+}
+div.mfoto6:hover .m6{
+    opacity: 0.3;
+}
+
+#textm1{
+    font-family:'Arial';
+}
+#textw1{
+    font-family:'Arial';
+}
+

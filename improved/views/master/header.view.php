@@ -2,13 +2,10 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="../assets/css/app.css">
+
 </head>
 <body>
-<?php 
-    require_once '../database/Connection/Connection.php';
-    $config = require_once '../database/Connection/config.php';
-    Connection::make($config['database']);
-?> 
+
     <div class="nav">
         <form class="search">
             <input type="text" name="search" placeholder="Search...">

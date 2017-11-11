@@ -3,13 +3,13 @@
 return [
 	'database' => [
 
-		'dbname' => 'fancy',
+		'dbname' => 'dbname=fancy;',
 
 		'username' => 'root',
 
 		'password' => '',
 
-		'connection' => 'mysql:host=127.0.0.1;'
+		'connection' => 'mysql:host=localhost;'
 	]
 
 ];

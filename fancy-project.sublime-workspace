@@ -1,0 +1,1049 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fe",
+				"fetchAll"
+			],
+			[
+				"req",
+				"req1\trequire_once …"
+			],
+			[
+				"func",
+				"function_exists〔function〕"
+			],
+			[
+				"mon",
+				"montlyIncome〔variable〕"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"dd",
+				"debug_zval_dump"
+			],
+			[
+				"PDO",
+				"pdo"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"endfor",
+				"endforeach〔keyword〕"
+			],
+			[
+				"b",
+				"b\tTag"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"publi",
+				"public"
+			],
+			[
+				"sta",
+				"static〔keyword〕"
+			],
+			[
+				"var",
+				"var2"
+			],
+			[
+				"title",
+				"title=\"the"
+			],
+			[
+				"phpinf",
+				"php_ini_loaded_file"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"public",
+				"openssl_public_encrypt"
+			],
+			[
+				"loca",
+				"local_rank"
+			],
+			[
+				"proce",
+				"processor_name"
+			],
+			[
+				"arg",
+				"argc"
+			],
+			[
+				"ta",
+				"taxes_pkg"
+			],
+			[
+				"em",
+				"emp_sal"
+			],
+			[
+				"empl",
+				"employee_id"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"lin",
+				"link\tTag"
+			],
+			[
+				"Book",
+				"BookMark"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"pro",
+				"Product"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"show",
+				"showWidthHeight"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"view",
+				"swf_viewport"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"come",
+				"comments"
+			],
+			[
+				"h1",
+				"h1\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"my",
+				"mysql_close"
+			],
+			[
+				"file_exten",
+				"file_extension"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"fiel",
+				"file_extension"
+			],
+			[
+				"u",
+				"ultimu"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"C",
+				"Celsius"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"foo",
+				"footer\tTag"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"WDFDevice",
+				"WDFDEVICE"
+			],
+			[
+				"s",
+				"sub\tFunction"
+			],
+			[
+				"pos",
+				"object-position"
+			],
+			[
+				"border-left-",
+				"border-left-width"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"te",
+				"align-content"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "improved/women.php",
+			"settings":
+			{
+				"buffer_size": 166,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "improved/views/women.view.php",
+			"settings":
+			{
+				"buffer_size": 1997,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Java/Ant.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/Ant.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Install",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"preferense",
+				"Preferences: Xdebug Settings – User"
+			],
+			[
+				"package Controll",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Activate Materialize Theme"
+			],
+			[
+				"Materia",
+				"Activate Materialize Theme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: iNSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+			"clear",
+			"-ls",
+			"help",
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Marin/Desktop/fancy-website",
+		"/C/Users/Marin/Desktop/fancy-website/improved",
+		"/C/Users/Marin/Desktop/fancy-website/improved/functions",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views"
+	],
+	"file_history":
+	[
+		"/C/Users/Marin/Desktop/fancy-website/improved/database/QueryBuilder.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/functions/bootstrap.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/women.view.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/database/Connection/config.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/functions/helpers.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/women.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/index.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/master/header.view.php",
+		"/C/xampp/php/php.ini",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/index.view.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/women.ph",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/stock.html",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/stock.view.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/loginpage.html",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/contacts.html",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/contacts.view.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/loginpage.view.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/men.html",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/men.view.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/master/social.view.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/master/footer.view.php",
+		"/C/Users/Marin/Desktop/fancy-website/women.view.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/assets/css/app.css",
+		"/C/Users/Marin/Desktop/test.txt",
+		"/C/Users/Marin/Desktop/PLANS.txt",
+		"/C/Users/Marin/Desktop/nerf this/Links.txt",
+		"/C/Users/Marin/Desktop/PageHTM/index.html",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/index.php",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/functions.php",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/bootstrap.php",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/config.php",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/Database/Connection.php",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/Database/QueryBuilder.php",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/index.view.php",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/Fruit.php",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/constants.php",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/snippets.php",
+		"/D/Marin/Utility/Gold",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/thisnewfile.php",
+		"/C/Users/Marin/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/D/Coding/Java/Bron-Kerbosch/src/Main.java",
+		"/D/Coding/Java/Bron-Kerbosch/src/Vertex.java",
+		"/D/Coding/Java/Bron-Kerbosch/src/VertexOperations.java",
+		"/D/Google Downloads/mine.cpp",
+		"/D/Coding/Java/AlgoluMasa/src/Bron_Kerbosch.java",
+		"/C/Users/Marin/Desktop/PseudoCodeForAlgoGraphics.txt",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Set.php",
+		"/D/Coding/Java/src/Vasea.mm",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/vendor/laravel/framework/src/Illuminate/Support/Str.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/app/Http/Controllers/SessionsController.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/app/Http/Controllers/PostsController.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/app/Post.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/routes/web.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/index.blade.php",
+		"/C/Users/Marin/Desktop/PHP SUBLIME MASTERY/Help/this/file.php",
+		"/C/Users/Marin/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/php-method.sublime-snippet",
+		"/C/Users/Marin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Marin/AppData/Local/Temp/scp02787/home/F_gr_TI41/CUNUP/MyEx/compiling.sh",
+		"/C/Users/Marin/AppData/Local/Temp/scp48205/home/F_gr_TI41/CUNUP/MyEx/Ex_3_3_3_1.cpp",
+		"/C/Users/Marin/AppData/Local/Temp/scp47535/home/F_gr_TI41/COSTENCO/Exemplu_3_4_1.cpp",
+		"/D/Marin/IMPORTANT/New Text Document.txt",
+		"/C/Users/Marin/AppData/Local/Temp/scp23471/home/F_gr_TI41/CUNUP/MyEx/Ex_3_2_1.exe",
+		"/C/Users/Marin/AppData/Local/Temp/scp16097/home/F_gr_TI41/CUNUP/MyEx/Ex_3_2_1.cpp",
+		"/C/Users/Marin/AppData/Local/Temp/scp05495/home/F_gr_TI41/CUNUP/MyEx/Ex_3_2_1.cpp",
+		"/D/Coding/Java/Bron-Kerbosch/Bron-Kerbosch.java",
+		"/D/Coding/Java/AlgoluMasa/test.txt",
+		"/D/Coding/SQL scripts/Oracle/Scripts/Les 4 - Using More package Concepts.sql",
+		"/D/Coding/SQL scripts/Oracle/Scripts/Lesson 1 - Creating Stored Procedures.sql",
+		"/D/Coding/SQL scripts/Oracle/Scripts/Les 2 - Creating Stored Functions.sql",
+		"/D/Coding/SQL scripts/Oracle/Scripts/Les 3 - Creating packages.sql",
+		"/C/Users/Marin/AppData/Local/Temp/scp59152/home/F_gr_TI41/CUNUP/Ex_3_4_2.exe",
+		"/D/Coding/SQL scripts/Oracle/Lesson 1 - Creating Stored Procedures.sql",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/database/seeds/PostsTableSeeder.php",
+		"/C/Users/Marin/Desktop/FreshCopy/app/Http/Controllers/PostsController.php",
+		"/C/Users/Marin/Desktop/Image-Gallery/public/css/stylisation.css",
+		"/C/Users/Marin/Desktop/Image-Gallery/resources/views/main/app.blade.php",
+		"/D/Google Downloads/cmsms-2.2.3.1-install.expanded/README.TXT",
+		"/C/Users/Marin/Desktop/Image-Gallery/.env",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/connectiontodb.txt",
+		"/C/Users/Marin/Desktop/PHP/main.php",
+		"/E/MySQL database Backup/Cloudy-blog-laravel/users.sql",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/app/Http/Controllers/RegistrationController.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/posts/show.blade.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/login.blade.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/layouts/small-posts.blade.php",
+		"/D/Marin/ParentsFolderData/xx25marikxx.yandex.ru.txt",
+		"/D/Marin/ParentsFolderData/LoL.txt",
+		"/D/Marin/ParentsFolderData/EMAIL.txt",
+		"/D/Marin/ParentsFolderData/rustorka.txt",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/layouts/errors.blade.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/vendor/vlucas/phpdotenv/src/Validator.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/lang/en/validation.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/app/Http/Controllers/Controller.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/app/Providers/AppServiceProvider.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/app/Comment.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/app/Http/Controllers/CommentsController.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/layouts/navbar.blade.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/database/migrations/2017_08_12_203039_create_comments_table.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/app/User.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/public/css/styles.css",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/database/migrations/2017_07_29_071658_create_posts_table.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/database/migrations/2017_07_29_163048_create_users_table.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/database/migrations/2017_08_11_155414_create_comments_table.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/app/Http/Controllers/help.php",
+		"/C/Users/Marin/Desktop/links.txt",
+		"/D/JunkThatNeedsDeletion/Win7.SP1.x86-x64.Rus-Eng.18in1.Activated.v2/readme.txt",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/layouts/posts.blade.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/database/migrations/2017_07_30_144901_create_comments_table.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/vendor/laravel/framework/src/Illuminate/Auth/Events/Logout.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/posts/create.blade.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/signup.blade.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/database/2014_10_12_000000_create_users_table.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/database/migrations/2017_07_29_162427_create_users_table.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/layouts/app.blade.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/tests/CreatesApplication.php",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/storage/framework/views/a24a8b54725a76492540e86d59813aea8f463908.php",
+		"/D/Coding/Laravel/LarProj/app/Model.php",
+		"/D/Coding/Laravel/LarProj/app/Post.php",
+		"/D/Coding/Laravel/LarProj/app/Comment.php",
+		"/C/Users/Marin/Desktop/home.html",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/public/css/login.css",
+		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/posts/master.blade.php",
+		"/D/Coding/Laravel/LarProj/resources/views/Posts/post.blade.php",
+		"/D/Coding/Laravel/LarProj/resources/views/Posts/create.blade.php"
+	],
+	"find":
+	{
+		"height": 77.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dd(",
+			"dd",
+			"dd(",
+			"include_path",
+			"dd(",
+			"dd",
+			"included_path",
+			"price",
+			"));\n",
+			"removeNbrs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "improved/women.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "improved/views/women.view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1803,
+								1803
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1260.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 80.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 174.0
+	},
+	"pinned_build_system": "",
+	"project": "fancy-project.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"helpe",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php"
+			],
+			[
+				"controller",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"index.blade",
+				"resources\\views\\index.blade.php"
+			],
+			[
+				"poststablesee",
+				"database\\seeds\\PostsTableSeeder.php"
+			],
+			[
+				"we",
+				"routes\\web.php"
+			],
+			[
+				"registr",
+				"app\\Http\\Controllers\\RegistrationController.php"
+			],
+			[
+				"postscont",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"post",
+				"app\\Post.php"
+			],
+			[
+				"show",
+				"resources\\views\\posts\\show.blade.php"
+			],
+			[
+				"validator",
+				"vendor\\vlucas\\phpdotenv\\src\\Validator.php"
+			],
+			[
+				"valida",
+				"resources\\lang\\en\\validation.php"
+			],
+			[
+				"sma",
+				"resources\\views\\layouts\\small-posts.blade.php"
+			],
+			[
+				"navbar",
+				"resources\\views\\layouts\\navbar.blade.php"
+			],
+			[
+				"style",
+				"public\\css\\styles.css"
+			],
+			[
+				"comments",
+				"app\\Http\\Controllers\\CommentsController.php"
+			],
+			[
+				"createcommentsta",
+				"database\\migrations\\2017_08_11_155414_create_comments_table.php"
+			],
+			[
+				"postscontro",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"posts/show",
+				"resources\\views\\posts\\show.blade.php"
+			],
+			[
+				"postcontroll",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"comm",
+				"app\\Comment.php"
+			],
+			[
+				"postcontrol",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"login",
+				"resources\\views\\login.blade.php"
+			],
+			[
+				"session",
+				"app\\Http\\Controllers\\SessionsController.php"
+			],
+			[
+				"logout",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Events\\Logout.php"
+			],
+			[
+				"postscontroll",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"posts",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"nav",
+				"resources\\views\\layouts\\navbar.blade.php"
+			],
+			[
+				"regis",
+				"app\\Http\\Controllers\\RegistrationController.php"
+			],
+			[
+				"sign",
+				"resources\\views\\signup.blade.php"
+			],
+			[
+				"create",
+				"resources\\views\\posts\\create.blade.php"
+			],
+			[
+				"appsev",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"postst",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"create.blad",
+				"resources\\views\\posts\\create.blade.php"
+			],
+			[
+				"layouts/nav",
+				"resources\\views\\layouts\\navbar.blade.php"
+			],
+			[
+				"view/app",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"app",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"small",
+				"resources\\views\\layouts\\small-posts.blade.php"
+			],
+			[
+				"layouts/app",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"views/app",
+				"storage\\framework\\views\\a24a8b54725a76492540e86d59813aea8f463908.php"
+			],
+			[
+				"layouts/posts",
+				"resources\\views\\layouts\\posts.blade.php"
+			],
+			[
+				"layouts/pos",
+				"resources\\views\\layouts\\posts.blade.php"
+			],
+			[
+				"postscontroller",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"tasks",
+				"resources\\views\\tasks.blade.php"
+			],
+			[
+				"resources/view",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"view",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"appservice",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"sessions",
+				"app\\Http\\Controllers\\SessionsController.php"
+			],
+			[
+				"sessionscontr",
+				"app\\Http\\Controllers\\SessionsController.php"
+			],
+			[
+				"commne",
+				"app\\Comment.php"
+			],
+			[
+				"rweb",
+				"routes\\web.php"
+			],
+			[
+				"show.bla",
+				"resources\\views\\Posts\\show.blade.php"
+			],
+			[
+				"routes/web",
+				"routes\\web.php"
+			],
+			[
+				"posts/",
+				"resources\\views\\Posts\\show.blade.php"
+			],
+			[
+				"view/show",
+				"resources\\views\\Posts\\show.blade.php"
+			],
+			[
+				"migrations/comment",
+				"database\\migrations\\2017_06_25_121919_create_comments_table.php"
+			],
+			[
+				"master",
+				"resources\\views\\layouts\\master.blade.php"
+			],
+			[
+				"index",
+				"resources\\views\\Posts\\index.blade.php"
+			],
+			[
+				"view/index",
+				"resources\\views\\Posts\\index.blade.php"
+			],
+			[
+				"rwe",
+				"routes\\web.php"
+			],
+			[
+				"postscontr",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"connection",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php"
+			],
+			[
+				"postsco",
+				"app\\Http\\Controllers\\PostsController.php"
+			],
+			[
+				"routes/",
+				"routes\\web.php"
+			],
+			[
+				"res/view",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"welc",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"views/",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"task",
+				"app\\Task.php"
+			],
+			[
+				"v/wel",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"re/view",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"r/web",
+				"routes\\web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 896.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

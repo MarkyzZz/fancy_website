@@ -18,7 +18,7 @@ body {
     box-sizing: border-box;
     font-size: 12px;
     background-color: white;
-    background-image: url('../img/meinlupa16.png');
+    background-image: url('../../resources/img/main/meinlupa16.png');
     background-position: 5px;
     background-repeat: no-repeat;
     padding: 6px 2px 5px 30px;

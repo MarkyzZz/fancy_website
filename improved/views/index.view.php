@@ -1,4 +1,6 @@
-<?php include 'master/header.view.php';?>
+<?php
+include 'master/header.view.php';
+?>
 
 <div class="wrapperimg">
     <a><img class="image1" src="../resources/img/main/image1.jpg" height="500"></a>

@@ -1,4 +1,5 @@
 <?php include 'master/header.view.php';?>
+
 <br><br><br><br>
 <div class="container2">
     <div class="friend4eva">
@@ -8,10 +9,8 @@
     </div>
     <img class="image2" src="../resources/img/main/image2.jpg" width="300" height="500"><br>
     <div class="greenrect">
-
     </div>
 </div>
-
 
 <!-- Accomplish the 2nd image first then proceed to image 3 DONE-->
 <div class="container3">       
@@ -26,7 +25,6 @@
     <div class="pinkrect">
     </div>
 </div>
-
 
 <!--Acomplish that DIV then go further Done -->
 <div class="almost-div">

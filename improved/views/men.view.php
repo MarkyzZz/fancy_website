@@ -1,4 +1,5 @@
-<?php include 'master/header.view.php';?>
+<?php 
+include 'master/header.view.php';?>
 
 <div class="box1">
      <h4>Product type</h4>

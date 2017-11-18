@@ -7,7 +7,7 @@
         <p id="friends-text">Lorem ipsum dolor sit amet,consectetur adipiscing elit. Aliquam auctor, odiout varius elementum, eros nisl aliquet justo, a mattis nulla mi quis massa.</p>            
         <a class="friends" href="#">shop now >&nbsp;</a>              
     </div>
-    <img class="image2" src="../resources/img/main/image2.jpg" width="300" height="500"><br>
+    <img class="image2" src="../../public/resources/img/main/image2.jpg" width="300" height="500"><br>
     <div class="greenrect">
     </div>
 </div>
@@ -21,24 +21,24 @@
         <p id="cool-text">Lorem ipsum dolor sit amet,consectetur adipiscing elit.</p>            
         <a class="cool" href="#">shop now >&nbsp;</a>              
     </div>
-    <img class="image3" src="../resources/img/main/image3.jpg" width="300" height="500"><br>
+    <img class="image3" src="../../public/resources/img/main/image3.jpg" width="300" height="500"><br>
     <div class="pinkrect">
     </div>
 </div>
 
 <!--Acomplish that DIV then go further Done -->
 <div class="almost-div">
-    <div class="imgs"> <img width="200" height="200" src="../resources/img/main/image5.jpg">
+    <div class="imgs"> <img width="200" height="200" src="../../public/resources/img/main/image5.jpg">
         <br>
         <a  href="#">shop now ></a>
 
         <br> 
-        <img width="200" height="200" src="../resources/img/main/image6.jpg">
+        <img width="200" height="200" src="../../public/resources/img/main/image6.jpg">
 
         <a  href="#">shop now ></a>
         <br> 
     </div>
-    <img width="400" height="450" src="../resources/img/main/image4.jpg">
+    <img width="400" height="450" src="../../public/resources/img/main/image4.jpg">
     <p>Lorem ipsum dolor sit amet,consectetur adipiscing elit.</p>
     <span>
       <a class="under" href="#">shop now ></a>
@@ -47,7 +47,7 @@
 
 <!-- Accomplish that div then proceed further Done -->
 <div class="last-div">
-    <img width="550" height="350" src="../resources/img/main/ShockBlast-nastygal-fw-2012-campaign-1.jpg">
+    <img width="550" height="350" src="../../public/resources/img/main/ShockBlast-nastygal-fw-2012-campaign-1.jpg">
 
     <div id="whiteback">
         <p id="text-inside-white">Lorem ipsum dolor sit amet,consectetur adipiscing elit.<br>

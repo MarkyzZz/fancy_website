@@ -30,7 +30,7 @@ include 'master/header.view.php';?>
    
        <div class="mfoto1">
     <div>
-           <img class="m1" src="../resources/img/clothes/men/m1.jpg" ><br>
+           <img class="m1" src="../../public/resources/img/clothes/men/m1.jpg" ><br>
         </div>
            <div class="middle"><div class="midtext">BUY</div></div>
        <p id="textm1">Brixton Print Shirt in Relaxed Fit <br><b>$ 65.00</b></p>
@@ -38,7 +38,7 @@ include 'master/header.view.php';?>
     
        <div class="mfoto2">
     <div>
-           <img class="m2" src="../resources/img/clothes/men/m2.jpg" ><br>
+           <img class="m2" src="../../public/resources/img/clothes/men/m2.jpg" ><br>
         </div>
            <div class="middle"><div class="midtext">BUY</div></div>
            <p id="textm1">Diesel Buster Straight Fit Jeans <br><b>$ 150.00</b></p>
@@ -46,7 +46,7 @@ include 'master/header.view.php';?>
     
        <div class="mfoto3">
     <div>
-           <img class="m3" src="../resources/img/clothes/men/m3.jpg" ><br>
+           <img class="m3" src="../../public/resources/img/clothes/men/m3.jpg" ><br>
         </div>
            <div class="middle"><div class="midtext">BUY</div></div>
            <p id="textm1">Produkt Jersey Shorts In Marl <br><b>$ 20.00</b></p>
@@ -54,7 +54,7 @@ include 'master/header.view.php';?>
     
        <div class="mfoto4">
     <div>
-           <img class="m4" src="../resources/img/clothes/men/m4.jpg" ><br>
+           <img class="m4" src="../../public/resources/img/clothes/men/m4.jpg" ><br>
         </div>
            <div class="middle"><div class="midtext">BUY</div></div>
            <p id="textm1">Longline Shirt With All Over Floral <br><b>$ 50.00</b></p>
@@ -62,7 +62,7 @@ include 'master/header.view.php';?>
     
     <div class="mfoto5">
     <div>
-           <img class="m5" src="../resources/img/clothes/men/m5.jpg" ><br>
+           <img class="m5" src="../../public/resources/img/clothes/men/m5.jpg" ><br>
         </div>
         <div class="middle"><div class="midtext">BUY</div></div>
            <p id="textm1">Faster Print T-Shirt <br><b>$ 20.00</b></p>
@@ -70,7 +70,7 @@ include 'master/header.view.php';?>
     
     <div class="mfoto6">
     <div>
-           <img class="m6" src="../resources/img/clothes/men/m6.jpg" ><br>
+           <img class="m6" src="../../public/resources/img/clothes/men/m6.jpg" ><br>
         </div>
         <div class="middle"><div class="midtext">BUY</div></div>
            <p id="textm1">Buster Jeans Regular Stretch Fit Jeans <br><b>$ 160.00</b></p>

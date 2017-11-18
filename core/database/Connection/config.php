@@ -3,7 +3,7 @@
 return [
 	'database' => [
 
-		'dbname' => 'dbname=fancy;',
+		'name' => 'fancy',
 
 		'username' => 'root',
 

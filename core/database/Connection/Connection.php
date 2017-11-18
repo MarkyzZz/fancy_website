@@ -1,5 +1,4 @@
 <?php
-
 /**
 * Database connection class
 */
@@ -10,8 +9,7 @@ class Connection
 	{
 		try{
 			return new PDO(
-				$config['connection'].
-				$config['dbname'],
+				$config['connection'].';dbname='.$config['name'],
 				$config['username'],
 				$config['password']);
 		}

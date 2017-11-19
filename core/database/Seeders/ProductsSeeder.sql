@@ -1,0 +1,10 @@
+-- Men seeder
+
+INSERT INTO `products` (`id`, `product_name`, `description`, `image`, `price`, `gender`, `size`, `product_type_id`) VALUES (NULL, 'Brixton Print Shirt in Relaxed Fit', NULL, '../../public/resources/img/clothes/men/m1.jpg', '65.00', 'Male', '3', '1'), (NULL, 'Diesel Buster Straight Fit Jeans', NULL, '../../public/resources/img/clothes/men/m2.jpg', '150.00', 'Male', '2', '5'), (NULL, 'Produkt Jersey Shorts In Marl', NULL, '../../public/resources/img/clothes/men/m3.jpg', '20.00', 'Male', '3', '6'), (NULL, 'Longline Shirt With All Over Floral', NULL, '../../public/resources/img/clothes/men/m4.jpg', '50.00', 'Male', '4', '11'), (NULL, 'Faster Print T-Shirt', NULL, '../../public/resources/img/clothes/men/m5.jpg', '20.00', 'Male', '6', '11'), (NULL, 'Buster Jeans Regular Stretch Fit Jeans', NULL, '../../public/resources/img/clothes/men/m6.jpg', '160.00', '', '3', '6');
+UPDATE `products` SET `gender` = 'Male' WHERE `products`.`id` = 6;
+
+
+--Women seeder
+INSERT INTO `products` (`id`, `product_name`, `description`, `image`, `price`, `gender`, `size`, `product_type_id`) VALUES (NULL, 'Beach Floaty Co-ord', NULL, '../../public/resources/img/clothes/women/w1.jpg', '20.00', 'Female', '3', '3'), (NULL, 'Imogen Satin Lace Up Corset', NULL, '../../public/resources/img/clothes/women/w2.jpg', '35.00', 'Female', '6', '4'), (NULL, 'Embroidered Skirt Maxi', NULL, '../../public/resources/img/clothes/women/w3.jpg', '50.00', 'Female', '4', '9'), (NULL, 'Cami Top With Gothic Text', NULL, '../../public/resources/img/clothes/women/w4.jpg', '30.00', 'Female', '3', '10'), (NULL, 'Boyfriend Tee With Treasure Map', NULL, '../../public/resources/img/clothes/women/w5.jpg', '28.00', 'Female', '3', '8');
+INSERT INTO `products` (`id`, `product_name`, `description`, `image`, `price`, `gender`, `size`, `product_type_id`) VALUES (NULL, 'Buster Jeans Regular Stretch Fit Jeans', NULL, '../../public/resources/img/clothes/men/m6.jpg', '160', 'Female', '5', '6');
+UPDATE `products` SET `product_name` = 'Style Mafia Frill Top', `image` = '../../public/resources/img/clothes/women/w6.jpg', `price` = '60.00' WHERE `products`.`id` = 12;

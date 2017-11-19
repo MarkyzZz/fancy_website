@@ -1,36 +1,27 @@
 <?php include 'master/header.view.php';?>
-<div id="map"></div>
-<script>
-      function initMap() {
-        var uluru = {lat: 35.126589, lng: -106.536798};
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 10,
-          center: uluru
-        });
-        var marker = new google.maps.Marker({
-          position: uluru,
-          map: map
-        });
-      }
-    </script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDIT-tukK12eU9y_8LP0g5Hh4K2U8AByiM&callback=initMap">
-    </script>
-		
-    <div class="contactsinfo">
-    
-    <h4>Contacts</h4>
-    <ul>
-    <li>FANCY.com, Customer Care</li>
-    <li>3828 Piermont Dr NE, Albuquerque</li> 
-    <li>Tel: +1 789-665-4231</li>
-    <li>Email: contacts@fancy.com</li>
-     </ul>
+
+<div class="container">
+  <div class="row-fluid">
+        <div class="span8">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2720.1364860127082!2d28.823307890584342!3d47.01792588462395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c97c2d03e2c6b1%3A0xd8e8b74ac8c3ef7b!2z0JzQvtC70LTQsNCy0YHQutC40Lkg0JPQvtGB0YPQtNCw0YDRgdGC0LLQtdC90L3Ri9C5INCj0L3QuNCy0LXRgNGB0LjRgtC10YI!5e0!3m2!1sru!2s!4v1511113480084" width="1280" height="720" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div>
+      
+        <div class="span4">
+        <h2>IT creators</h2>
+        <address>
+          <strong>The masterpiece </strong><br>
+          M.Kogalniceanu str.<br>
+          Chisinau<br>
+          4th block<br>
+          <abbr title="Phone">P:</abbr> 01234 567 890
+        </address>
+      </div>
     </div>
+</div>
 
 <?php 
 
-include 'master/social.view.php';
+//include 'master/social.view.php';
 include 'master/footer.view.php';
 
 ?>

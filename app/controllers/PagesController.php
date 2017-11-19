@@ -29,9 +29,11 @@ class PagesController
 	{
 		$product_types = App::get('database')->selectAll('product_types');
 		$sizes = App::get('database')->selectAll('sizes');
+		$men = App::get('database')->selectWhere('products','gender','Male');
 		return view('men',[
 			'product_types' => $product_types,
-			'sizes' => $sizes
+			'sizes' => $sizes,
+			'men' => $men
 		]);
 	}
 
@@ -45,5 +47,14 @@ class PagesController
 		return view('contacts');
 	}
 
+	public function login()
+	{
+		return view('loginpage');
+	}
+
+	public function register()
+	{
+		return view('registration');
+	}
 	
 }

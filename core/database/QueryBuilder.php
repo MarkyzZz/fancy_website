@@ -25,9 +25,8 @@ class QueryBuilder{
 	}
 	/**
 	 * Select all rows where column is equal to a value
-	 * @param  string
-	 * @param  string
-	 * @param  numeric/string
+	 * @param  string table name
+	 * @param  string column name
 	 * @return obj
 	 */
 	public function selectWhere($table,$column,$value)

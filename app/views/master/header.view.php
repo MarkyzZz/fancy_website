@@ -1,42 +1,33 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="../../../public/assets/css/app.css">
-
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="../../../public/assets/css/app.css">
 </head>
 <body>
 
-    <div class="nav">
-        <form class="search">
-            <input type="text" name="search" placeholder="Search...">
-        </form>
-        <img class="logo" alt="logo" src="../resources/img/main/logo.gif" width="100" height="90">
-        <br>
-        <br>
-        <br>
-
-        <div class="interface">
-            <ul>
-                <li>
-                    <a href=""><img src="../resources/img/main/wish.png"> </a>
-                </li>
-                <li>
-                    <a href=""><img src="../resources/img/main/bag.png"> </a>
-                </li> 
-                <li>
-                    <a href="/loginpage"><img src="../resources/img/main/user.png"> </a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="menu">
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/women">Women</a></li>
-                <li><a href="/men">Men</a></li>
-                <li><a href="/stock">Lookbook</a></li>
-                <li><a href="">Sale</a></li>
-                <li><a href="/contacts">Contacts</a></li>
-            </ul>
-        </div>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/" style="color:#ff97cb; font-weight: bold">Fancy</a>
     </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="/">Home</a></li>
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Clothes <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/men">Men</a></li>
+          <li><a href="/women">Women</a></li>
+        </ul>
+      </li>
+      <li><a href="/contacts">Contact Us</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/register"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+      <li><a href="/login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+    </ul>
+  </div>
+</nav>

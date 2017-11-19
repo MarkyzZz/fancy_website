@@ -10,7 +10,6 @@ class PagesController
 	
 	public function home()
 	{	
-		
 		return view('index');
 	}
 
@@ -26,7 +25,12 @@ class PagesController
 
 	public function men()
 	{
-		return view('men');
+		$product_types = App::get('database')->selectAll('product_types');
+		$sizes = App::get('database')->selectAll('sizes');
+		return view('men',[
+			'product_types' => $product_types,
+			'sizes' => $sizes
+		]);
 	}
 
 	public function stock()

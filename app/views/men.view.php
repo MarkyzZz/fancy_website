@@ -2,30 +2,19 @@
 include 'master/header.view.php';?>
 
 <div class="box1">
-     <h4>Product type</h4>
-    <input type="checkbox" /> Beachwear <br />
-    <input type="checkbox" /> Blazers <br />
-    <input type="checkbox" /> Cardigans <br />
-    <input type="checkbox" /> Coats <br />
-    <input type="checkbox" /> Jackets <br />
-    <input type="checkbox" /> Jeans <br />
-    <input type="checkbox" /> Lingerie <br />
-    <input type="checkbox" /> Nightwear <br />
-    <input type="checkbox" /> Shorts <br />
-    <input type="checkbox" /> Swimmwear <br />
-    <input type="checkbox" /> Tops <br />
-</div>
-    <br>
-<div class="box2">
-    <h4>Size</h4>
-    <input type="checkbox" /> XXS <br />
-    <input type="checkbox" /> XS <br />
-    <input type="checkbox" /> S <br />
-    <input type="checkbox" /> M <br />
-    <input type="checkbox" /> L <br />
-    <input type="checkbox" /> XL <br />
-    <input type="checkbox" /> 2XL <br />
+ <h4>Product type</h4>
+ <?php foreach ($product_types as $type) : ?>
+  <input type="checkbox"/>&nbsp<?=$type->product_type?><br>
+<?php endforeach ?>
 
+</div>
+<br>
+
+<div class="box2">
+  <h4>Size</h4>
+  <?php foreach ($sizes as $size) : ?>
+    <input type="checkbox"/>&nbsp<?=$size->size_name?><br>
+  <?php endforeach ?>
 </div>
    
        <div class="mfoto1">

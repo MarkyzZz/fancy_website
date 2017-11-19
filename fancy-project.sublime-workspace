@@ -303,24 +303,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "improved/women.php",
-			"settings":
-			{
-				"buffer_size": 166,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "improved/views/women.view.php",
-			"settings":
-			{
-				"buffer_size": 1997,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/Java/Ant.sublime-build",
 	"build_system_choices":
@@ -418,19 +400,17 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Marin/Desktop/fancy-website",
-		"/C/Users/Marin/Desktop/fancy-website/improved",
-		"/C/Users/Marin/Desktop/fancy-website/improved/functions",
-		"/C/Users/Marin/Desktop/fancy-website/improved/views"
+		"/C/Users/Marin/Desktop/fancy-website"
 	],
 	"file_history":
 	[
+		"/C/Users/Marin/Desktop/fancy-website/improved/women.php",
+		"/C/Users/Marin/Desktop/fancy-website/improved/views/women.view.php",
+		"/C/Users/Marin/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
 		"/C/Users/Marin/Desktop/fancy-website/improved/database/QueryBuilder.php",
 		"/C/Users/Marin/Desktop/fancy-website/improved/functions/bootstrap.php",
-		"/C/Users/Marin/Desktop/fancy-website/improved/views/women.view.php",
 		"/C/Users/Marin/Desktop/fancy-website/improved/database/Connection/config.php",
 		"/C/Users/Marin/Desktop/fancy-website/improved/functions/helpers.php",
-		"/C/Users/Marin/Desktop/fancy-website/improved/women.php",
 		"/C/Users/Marin/Desktop/fancy-website/improved/index.php",
 		"/C/Users/Marin/Desktop/fancy-website/improved/views/master/header.view.php",
 		"/C/xampp/php/php.ini",
@@ -551,12 +531,11 @@
 		"/C/Users/Marin/Desktop/home.html",
 		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/public/css/login.css",
 		"/C/Users/Marin/Desktop/Cloudy-Blog-Laravel/resources/views/posts/master.blade.php",
-		"/D/Coding/Laravel/LarProj/resources/views/Posts/post.blade.php",
-		"/D/Coding/Laravel/LarProj/resources/views/Posts/create.blade.php"
+		"/D/Coding/Laravel/LarProj/resources/views/Posts/post.blade.php"
 	],
 	"find":
 	{
-		"height": 77.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -598,69 +577,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "improved/women.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 166,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								133,
-								133
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "improved/views/women.view.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1997,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1803,
-								1803
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1260.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1013,12 +931,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"C:\\Users\\Marin\\Desktop\\PHP SUBLIME MASTERY\\php-practice.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{

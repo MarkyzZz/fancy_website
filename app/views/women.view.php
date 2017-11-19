@@ -16,7 +16,20 @@
   <?php endforeach ?>
 </div>
 
+<?php foreach ($women as $woman) :?>
+
 <div class="wfoto1">
+  <div>
+   <img class="w1" src="<?=$woman->image?>" ><br>
+ </div>
+ <div class="middle"><div class="midtext">BUY</div></div>
+ <p id="textw1"><?=$woman->product_name;?> <br><b><?=$woman->price?></b></p>
+</div>
+
+<?php endforeach ?>
+
+
+<!-- <div class="wfoto1">
   <div>
    <img class="w1" src="../../public/resources/img/clothes/women/w1.jpg" ><br>
  </div>
@@ -63,7 +76,7 @@
  <div class="middle"><div class="midtext">BUY</div></div>
  <p id="textw1">Style Mafia Frill Top <br><b>$ 60.00</b></p>
 </div>
-
+ -->
 <div class="prevnext">
   <a href="#" class="previous">&#8249;</a>
   <a href="#" class="next">&#8250;</a>

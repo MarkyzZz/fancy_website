@@ -16,10 +16,12 @@ class PagesController
 	public function women(){
 		$product_types = App::get('database')->selectAll('product_types');
 		$sizes = App::get('database')->selectAll('sizes');
+		$women = App::get('database')->selectWhere('products','gender','Female');
 
 		return view('women',[
 			'product_types' => $product_types,
-			'sizes' => $sizes
+			'sizes' => $sizes,
+			'women' => $women
 		]);
 	}
 

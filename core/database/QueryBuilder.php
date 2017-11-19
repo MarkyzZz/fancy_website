@@ -23,4 +23,20 @@ class QueryBuilder{
 		$statement->execute();
 		return $statement->fetchAll(PDO::FETCH_OBJ);
 	}
+	/**
+	 * Select all rows where column is equal to a value
+	 * @param  string
+	 * @param  string
+	 * @param  numeric/string
+	 * @return obj
+	 */
+	public function selectWhere($table,$column,$value)
+	{
+		$statement = $this->pdo->prepare("select * from $table where $column = :value");
+
+		$statement->execute(array(
+			':value' => $value
+		));
+		return $statement->fetchAll(PDO::FETCH_OBJ);
+	}
 }

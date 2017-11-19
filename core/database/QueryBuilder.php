@@ -38,4 +38,28 @@ class QueryBuilder{
 		));
 		return $statement->fetchAll(PDO::FETCH_OBJ);
 	}
+
+	/**
+	 * Insert into table at specified columns the respective values
+	 * @param  [string] $table      table name
+	 * @param  array $parameters array containing column names
+	 * @return PDO object             returns an array of objects representing rows selected
+	 */
+	public function insert($table, $parameters)
+    {
+        $sql = sprintf(
+            'insert into %s (%s) values (%s)',
+            $table,
+            implode(', ', array_keys($parameters)),
+            ':' . implode(', :', array_keys($parameters))
+        );
+        
+        try {
+            $statement = $this->pdo->prepare($sql);
+            $statement->execute($parameters);
+        } catch (Exception $e) {
+            $e->getMessage();
+
+        }
+    }
 }

@@ -5,20 +5,20 @@
         <div class='col-md-3'></div>
         <div class="col-md-6">
             <div class="login-box well">
-                    <form action="">
+                    <form method="POST" action="/login">
                         <legend>Sign In</legend>
                         <div class="form-group">
-                            <label for="username-email">E-mail or Username</label>
-                            <input value='' id="username-email" placeholder="E-mail or Username" type="text" class="form-control" />
+                            <label for="username-email">E-mail</label>
+                            <input value='' id="username-email" placeholder="E-mail" type="text" class="form-control" required />
                         </div>
                         <div class="form-group">
                             <label for="password">Password</label>
-                            <input id="password" value='' placeholder="Password" type="text" class="form-control" />
+                            <input id="password" value='' placeholder="Password" type="password" class="form-control" required />
                         </div>
                         <div class="input-group">
                           <div class="checkbox">
                             <label>
-                              <input id="login-remember" type="checkbox" name="remember" value="1"> Remember me
+                              <input id="login-remember" type="checkbox" name="remember" value="0"> Remember me
                             </label>
                           </div>
                         </div>

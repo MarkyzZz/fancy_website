@@ -1,6 +1,6 @@
 <?php 
 include 'master/header.view.php';?>
-
+<div class="container"> 
 <div class="box1">
  <h4>Product type</h4>
  <?php foreach ($product_types as $type) : ?>
@@ -16,14 +16,19 @@ include 'master/header.view.php';?>
     <input type="checkbox"/>&nbsp<?=$size->size_name?><br>
   <?php endforeach ?>
 </div>
-   
-       <div class="mfoto1">
+
+<div class="mfoto1">
     <div>
            <img class="m1" src="../../public/resources/img/clothes/men/m1.jpg" ><br>
         </div>
            <div class="middle"><div class="midtext">BUY</div></div>
-       <p id="textm1">Brixton Print Shirt in Relaxed Fit <br><b>$ 65.00</b></p>
+       <p id="textm1">Brixton Print Shirt in Relaxed Fit <br><b>$65.00</b></p>
     </div>
+
+</div>
+
+   
+       
     
        <div class="mfoto2">
     <div>

@@ -9,3 +9,5 @@ $router->get('women','PagesController@women');
 $router->get('men','PagesController@men');
 $router->get('stock','PagesController@stock');
 $router->get('contacts', 'PagesController@contacts');
+$router->get('login','PagesController@login');
+$router->get('register','PagesController@register');

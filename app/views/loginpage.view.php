@@ -9,11 +9,11 @@
                         <legend>Sign In</legend>
                         <div class="form-group">
                             <label for="username-email">E-mail</label>
-                            <input value='' id="username-email" placeholder="E-mail" type="text" class="form-control" required />
+                            <input value='' id="username-email" placeholder="E-mail" type="text" class="form-control" name="email" required />
                         </div>
                         <div class="form-group">
                             <label for="password">Password</label>
-                            <input id="password" value='' placeholder="Password" type="password" class="form-control" required />
+                            <input id="password" value='' placeholder="Password" type="password" class="form-control" name="password" required />
                         </div>
                         <div class="input-group">
                           <div class="checkbox">
@@ -25,7 +25,7 @@
                         <div class="form-group">
                             <input type="submit" class="btn btn-default btn-login-submit btn-block m-t-md" value="Login" />
                         </div>
-                        <span class='text-center'><a href="/resetting/request" class="text-sm">Forgot Password?</a></span>
+                        <span class='text-center'><a href="#" class="text-sm">Forgot Password?</a></span>
                         <div class="form-group">
                             <p class="text-center m-t-xs text-sm">Do not have an account?</p> 
                             <a href="/register" class="btn btn-default btn-block m-t-md">Create an account</a>

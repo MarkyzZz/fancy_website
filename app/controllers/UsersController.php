@@ -29,6 +29,6 @@ class UsersController
 
 	public function login()
 	{
-		
+		dd($_POST);
 	}
 }

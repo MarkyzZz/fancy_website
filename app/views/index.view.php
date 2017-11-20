@@ -38,6 +38,8 @@ include 'master/header.view.php';
     </a>
   </div>
 </div>
+
+<?php  ?>
 <?php 
 
 // include 'master/social.view.php';

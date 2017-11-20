@@ -14,3 +14,4 @@ $router->get('register','PagesController@register');
 
 $router->post('register', 'UsersController@register');
 $router->post('login','UsersController@login');
+$router->post('logout','UsersController@logout');

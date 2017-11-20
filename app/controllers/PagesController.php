@@ -49,12 +49,23 @@ class PagesController
 
 	public function login()
 	{
+		if(static::isAuthenticated()){
+			return redirect('');
+		}
 		return view('loginpage');
 	}
 
 	public function register()
 	{
+		if(static::isAuthenticated()){
+			return redirect('');
+		}		
 		return view('registration');
 	}
 	
+	protected static function isAuthenticated(){
+		session_start();
+		
+		return isset($_SESSION['user']);
+	}
 }

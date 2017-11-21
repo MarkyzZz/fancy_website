@@ -86,18 +86,45 @@ body{
     content: "*";
     position: absolute;
 }
+.shop-now1{
+  position: absolute;
+  bottom: 40%;
+  left: 60%;
+}
 
-.shop-now{
+.shop-now1 a{
+	font-size: 21px ;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	margin-bottom:10px;
+	color:rgb(94, 250, 215);
+}
+.shop-now2{
   position: absolute;
   bottom: 48%;
   left: 10%;
 }
 
-.shop-now a{
-	font-size: 20px ;
+.shop-now2 a{
+	font-size: 21px ;
 	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	margin-bottom:10px;
 	color:rgb(51, 51, 51);
+}
+.shop-now3{
+  position: absolute;
+  bottom: 45%;
+  left: 65%;
+}
+
+.shop-now3 a{
+	font-size: 21px ;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	margin-bottom:10px;
+	color:rgb(255, 151, 203);
 }

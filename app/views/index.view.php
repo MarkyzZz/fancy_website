@@ -15,17 +15,23 @@ include 'master/header.view.php';
 
       <div class="item active">
         <img src="../../public/resources/img/carousel/img1.png" alt="Los Angeles">
+        <div class="shop-now1">
+          <a href="/men">shop now &#x276F</a>
+        </div>
       </div>
 
       <div class="item">
         <img src="../../public/resources/img/carousel/img2.png" alt="Chicago">
-        <div class="shop-now">
+        <div class="shop-now2">
           <a href="/men">shop now &#x276F</a>
         </div>
       </div>
     
       <div class="item">
         <img src="../../public/resources/img/carousel/img3.png" alt="New York">
+        <div class="shop-now3">
+          <a href="/women">shop now &#x276F</a>
+        </div>
       </div>
   
     </div>

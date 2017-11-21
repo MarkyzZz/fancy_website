@@ -19,6 +19,9 @@ include 'master/header.view.php';
 
       <div class="item">
         <img src="../../public/resources/img/carousel/img2.png" alt="Chicago">
+        <div class="shop-now">
+          <a href="/men">shop now &#x276F</a>
+        </div>
       </div>
     
       <div class="item">

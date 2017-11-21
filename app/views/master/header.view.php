@@ -18,7 +18,7 @@
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="/" style="color:#ff97cb; font-weight: bold">Fancy</a>
+      <a class="navbar-brand" href="/" style="color:#ff97cb; font-weight: bold"><img src="public/resources/img/main/logo.gif" alt="fancy" width="50" height="25"></a>
     </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="/">Home</a></li>
@@ -42,3 +42,4 @@
     </ul>
   </div>
 </nav>
+

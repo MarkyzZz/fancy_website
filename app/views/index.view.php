@@ -47,7 +47,13 @@ include 'master/header.view.php';
     </a>
   </div>
 </div>
-
+<script type="text/javascript">
+  
+  $(document).ready(function(){
+    $('.navbar').find('active').removeClass('active');
+    $('.home').addClass('active');
+  });
+</script>
 <?php  ?>
 <?php 
 

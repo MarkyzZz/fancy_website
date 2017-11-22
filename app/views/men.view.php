@@ -19,7 +19,13 @@
   </div>
 
 </div>
-
+<script type="text/javascript">
+  
+  $(document).ready(function(){
+    $('.navbar').find('active').removeClass('active');
+    $('.clothes').addClass('active');
+  });
+</script>
 <?php 
 
 // include 'master/social.view.php';

@@ -21,22 +21,22 @@
       <a class="navbar-brand" href="/" style="color:#ff97cb; font-weight: bold"><img src="public/resources/img/main/logo.gif" alt="fancy" width="50" height="25"></a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="/">Home</a></li>
-      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Clothes <span class="caret"></span></a>
+      <li class="home"><a href="/">Home</a></li>
+      <li class="dropdown clothes"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Clothes <span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><a href="/men">Men</a></li>
           <li><a href="/women">Women</a></li>
         </ul>
       </li>
-      <li><a href="/contacts">Contact Us</a></li>
+      <li class="contacts"><a href="/contacts">Contact Us</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
     <?php if(isset($_SESSION['user'])) :?>
-      <li><a href="#"><span class="glyphicon glyphicon-user"></span>&nbsp<?=$_SESSION['user'][0]->first_name . ' ' . $_SESSION['user'][0]->last_name?></a></li>
-      <li><a href="/" onclick="$.post('/logout');"><span class="glyphicon glyphicon-log-in"></span>&nbspLog Out</a></li>
+      <li class="user"><a href="#"><span class="glyphicon glyphicon-user"></span>&nbsp<?=$_SESSION['user'][0]->first_name . ' ' . $_SESSION['user'][0]->last_name?></a></li>
+      <li class="logout"><a href="/" onclick="$.post('/logout');"><span class="glyphicon glyphicon-log-in"></span>&nbspLog Out</a></li>
     <?php else :?>
-      <li><a href="/register"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-      <li><a href="/login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      <li class="register"><a href="/register"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+      <li class="login"><a href="/login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
     <?php endif ?>
       
     </ul>

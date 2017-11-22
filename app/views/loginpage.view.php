@@ -37,7 +37,13 @@
         <div class='col-md-3'></div>
     </div>
 </div>
-
+<script type="text/javascript">
+  
+  $(document).ready(function(){
+    $('.navbar').find('active').removeClass('active');
+    $('.login').addClass('active');
+  });
+</script>
 
 <?php 
 

@@ -56,7 +56,13 @@
 				</div>
 	</div>
 	</div>
-
+<script type="text/javascript">
+	
+	$(document).ready(function(){
+		$('.navbar').find('active').removeClass('active');
+		$('.register').addClass('active');
+	});
+</script>
 <?php
 	include 'master/footer.view.php';
 
